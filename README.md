@@ -29,3 +29,9 @@ On the redirect after login, the local host maybe a little slow to respond, give
 <i>This is derivative work based on php:8-apache Docker image from: </i>
 
 https://hub.docker.com/_/php/
+
+<b>Notes for the OP</b>
+
+Home URL: https://localhost.local:5001
+
+Callback/redirect_uri parameter: https://localhost:5001/secure/redirect_uri
