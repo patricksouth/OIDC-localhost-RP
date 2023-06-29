@@ -40,11 +40,11 @@ $list = [
   'OIDC_CLAIM_nonce',
   'OIDC_CLAIM_auth_time',
   'OIDC_CLAIM_exp',
-  'OIDC_CLAIM_exp',
   'OIDC_access_token',
   'OIDC_access_token_expires',
   'HTTPS',
   'SSL_TLS_SNI',
+  'OIDC_CLAIM_isMemberOf',
 
 ];
 
