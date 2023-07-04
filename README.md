@@ -1,7 +1,7 @@
 
 
-This is a local host example that uses CILogon as the OIDC OP. 
-You need to register your localhost service with CILogon using the OIDC Config manager before this example will function.
+This is a local host example that connects to an OIDC OP. 
+You need to register your localhost service with the OIDC OP before this example will function.
 
 Build the image with:
 
